@@ -1,0 +1,13 @@
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserEntry.resources
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Statistics.resources
+C:\Users\aysus\Desktop\C#\StaffReg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Graphs.resources
